@@ -13,9 +13,10 @@ int main(void)
 	{
 		putchar(lc);
 	}
-	for (lc = 'a' ; lc <= 'z' ; lc++)
+	for (lc = 'A' ; lc <= 'Z' ; lc++)
 	{
-		putchar(toupper(lc));
+		putchar(lc);
 	}
 	putchar('\n');
 	return (0);
+}
