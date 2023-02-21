@@ -2,8 +2,8 @@
 
 /**
  * print_alphabet - Entry point
- * Description: a function that prints the alphabet,
- * 10 times in lowecase followed by a new line
+ * Description: a function that prints the alphabet 10x
+ * 
  * Return: void
  */
 void print_alphabet_x10(void)
